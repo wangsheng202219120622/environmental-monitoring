@@ -1,2 +1,0 @@
-pro文件添加opencv路径
-widget.cpp文件添加权重onnx文件路径
